@@ -1,0 +1,1 @@
+# OpenSSH-8.2-was-released-on-2020-02-14.-It-is-available-from-the-mirrors-listed-at-https-www.opens
